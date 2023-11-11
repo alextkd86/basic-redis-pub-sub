@@ -50,7 +50,5 @@ This is a basic example showcasing the use of Node.js with Express and Redis Pub
     ```
 
 
-    Response --> Publishing an Event using Redis to: Hi! I am Ale
-    Simultaneously, it has emitted an event to the channel named 'channel1' and
-    if service 2 is up and running, it listens for this event and executes 
-    the code of service 2.
+Response --> Publishing an Event using Redis to: Hi! I am Ale  
+Simultaneously, it has emitted an event to the channel named 'channel1' and if service 2 is up and running, it listens for this event and executes the code of service 2.
